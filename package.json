@@ -1,0 +1,11 @@
+{
+  "name": "seo-tools-collection",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maintained collection of SEO tools and resources",
+  "type": "module",
+  "scripts": {
+    "check-links": "node scripts/check-links.mjs"
+  },
+  "license": "CC0-1.0"
+}
