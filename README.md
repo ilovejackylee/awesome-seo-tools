@@ -92,6 +92,7 @@
 - [SE Ranking](https://seranking.com/) — 中小团队向全套件 · Paid
 - [BuzzSumo](https://buzzsumo.com/) — 内容传播与选题 · Paid
 - [SparkToro](https://sparktoro.com/) — 受众媒介触点 · Freemium
+- [Vaneform](https://vaneform.com/) — 免费网站流量估算与竞争情报 · Free
 
 ## 排名监控
 
